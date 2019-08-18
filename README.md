@@ -21,8 +21,8 @@ Additional benefits may include a $10,000.00 quarterly bonus
 ```
 In the above example, there are two 'salary' entites. This program uses Spacy to identify all named entities, and the regular expressions isolate salary types like 'yearly', 'annual', 'weekly', 'daily', 'montly, 'hourly' and bonuses. Other text types of interest may also be added using regular expressions as you go on.
 
-From the example, the expected output is $75000 (takes the average annual income) and $10000 (bonus)
+From the example, the expected output is ```$75000``` (takes the average annual income) and ```$10000``` (bonus)
 
-Please refer to the ``` salary_extraction.py ``` file 
+Please refer to the ``` salary_extraction.py ``` file for the python code.
 
 Good luck!
