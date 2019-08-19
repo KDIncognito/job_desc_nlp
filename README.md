@@ -1,6 +1,6 @@
 ## Extract salary from job descriptions
 
-This is part of a two-part project. After harvesting content from any job-posting website, I used the below program to extract salaries and salary types. This piece of code gives the right results for about 70%-80% of the time, and there is a huge scope for improvement. It is a pain in the neck when it does not give expected results, and I tried to do what I could to include many possibilities to work with. I used a bit of NLP, and some regular expressions along with text manipulation techniques to get the job done.
+This is part of a two-part project. After harvesting content from any job-posting website, I used this program to extract salaries and salary types. This piece of code gives the right results for about 70%-80% of the time, and there is a huge scope for improvement. It is a pain in the neck when it does not give expected results, and I tried to do what I could to include many possibilities to work with. I used a bit of NLP, and some regular expressions along with text manipulation techniques to get the job done.
 
 ### Dependencies
 We will need the following modules:
