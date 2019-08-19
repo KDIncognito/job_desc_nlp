@@ -10,7 +10,7 @@ We will need the following modules:
 4. Math
 5. Spacy
 
-Please see the below example to get a brief summary of what this does.
+Please see the example below to get a brief summary of what this does.
 
 ```
 Software engineer needed. Pay ranges between $70k-$80k an annum.
