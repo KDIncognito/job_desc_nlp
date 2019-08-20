@@ -23,6 +23,6 @@ In the above example, there are two 'salary' entites. This program uses Spacy to
 
 From the example, the expected output is ```$75000``` (takes the average annual income) and ```$10000``` (bonus)
 
-Please refer to the ``` salary_extraction.py ``` file for the python code.
+Please refer to ``` salary_extraction.py ``` file for the python code.
 
 Good luck!
